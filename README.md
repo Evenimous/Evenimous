@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Evenimous
-- 👀 I’m interested in anything regarding computer gaming, computer hardware, operating systems, and computer programming, though I'd say I'm only decent with the first two as of the time of me writing this, Jan 10th 2022.
-- 🌱 I’m currently learning Network Administration, IT, PHP, CSS, Linux (specifically Ubuntu), and Windows.
+- 👀 I’m interested in anything regarding computer hardware/software/networking/os, and anything car related.
+- 🌱 I’m currently learning Web Design (HTML, CSS), Amplifier Theory, Automotive Repair/Upgrades, Information Technology, Linux (Ubuntu), and Windows (10, 11).
 - 💞️ I’m looking to collaborate on anything that seems cool! 
 - 📫 How to reach me:
       Discord: Evenimous#7008
-      Instagram: Evan_Kirschenmann
-      Email: evanjkirschenmann@gmail.com
+      Email: evanjkirschenmann.tech@gmail.com
 
 <!---
 Evenimous/Evenimous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
